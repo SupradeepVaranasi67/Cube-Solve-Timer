@@ -136,6 +136,9 @@ npm start
 ## 👤 Author
 
 **Supradeep Varanasi**
+
+---
+
 Built for practice, learning, and speedcubing convenience.
 
 ---
