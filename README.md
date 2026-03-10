@@ -20,7 +20,7 @@ It allows you to time your solves, handle inspections, apply penalties, and view
 ## 🏗️ Tech Stack
 ### **Frontend**
 
-* React (Vite or CRA)
+* React (Vite)
 * Axios (for API calls)
 * Tailwind CSS / basic CSS (optional styling)
 
@@ -37,7 +37,7 @@ It allows you to time your solves, handle inspections, apply penalties, and view
 ### 🧩 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/cubedesk.git
+git clone https://github.com/SupradeepVaranasi67/cubedesk.git
 cd cubedesk
 ```
 
